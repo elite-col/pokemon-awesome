@@ -33,7 +33,7 @@ export default function Header() {
 
         <div className="flex items-center gap-1 self-center">
           <a
-            href="https://www.producthunt.com/posts/pokemon-awesome"
+            href="#"
             target="_blank"
             rel="noreferrer"
             title="Pokemon Awesome on Product Hunt"
@@ -43,7 +43,7 @@ export default function Header() {
             <FaProductHunt />
           </a>
           <a
-            href="https://github.com/afiiif"
+            href="https://github.com/elite-col"
             title="Pokemon Awesome on GitHub"
             className="p-2 text-2xl dark:text-white"
           >
