@@ -39,18 +39,7 @@ export default function AboutPage() {
       </div>
 
       <a
-        href="https://www.producthunt.com/posts/pokemon-awesome?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-pokemon&#0045;awesome"
-        target="_blank"
-        rel="noreferrer"
-        title="Pokemon Awesome on Product Hunt"
-      >
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=357768&theme=light"
-          alt="Pokemon&#0032;Awesome - The&#0032;coolest&#0032;Pokemon&#0032;website&#0032;ever&#0033; | Product Hunt"
-          className="inline-block"
-          width="250"
-          height="54"
+       
         />
       </a>
 
